@@ -30,10 +30,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-When I disabled Size Classes and built for iPhone 6S, the dimensions in Storyboard didn't match the dimensions in Simulator. The Simulator
-appeared to be about 10% wider than the Storyboard, leaving extra horizontal padding on the right side. I had to change the Simulated Metrics
-screen size to iPhone 4.7-inch screen. After doing this, the Connect Hardware Keyboard setting toggled silently in Simulator causing the
-text field to longer respond to the soft keyboard.
+When I disabled Size Classes and built for iPhone 6S, the dimensions in Storyboard didn't match the dimensions in Simulator. The Simulator appeared to be about 10% wider than the Storyboard, leaving extra horizontal padding on the right side. I had to change the Simulated Metrics screen size to iPhone 4.7-inch screen. After doing this, the Connect Hardware Keyboard setting toggled silently in Simulator causing the text field to longer respond to the soft keyboard.
+
+Also, I had some trouble with Github for Desktop. I made some changes that caused Xcode to prompt me to revert changes, and whatever action I took blew out my entire repo. I had to redo the project, which is why it's just the barebones version attached here :( .
 
 ## License
 
